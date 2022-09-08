@@ -21,7 +21,7 @@ body
 }
 
 .table th{
-    background-color: darkblue;
+    background-color: var(--primary-color);
     color: #ffffffff;
 
 }
