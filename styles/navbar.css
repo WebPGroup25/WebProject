@@ -3,5 +3,18 @@ This stylesheet contains styles for the navbar
 */
 
 #navbar {
+    background-color: var(--primary-color);
+    box-sizing: border-box;
+    font-size: 20px;
+}
 
+#navbar a {
+    color: white;
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration-line: none;
+}
+
+#navbar a#current{
+    background-color: #770165;
 }
