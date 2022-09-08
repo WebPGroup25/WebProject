@@ -1,3 +1,8 @@
 /*
 This stylesheet contains theme styles like fonts, color scheme etc
 */
+
+:root {
+    --primary-color : #e800c5;
+    font-family : Arial, Helvetica, sans-serif;
+}
